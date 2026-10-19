@@ -1,0 +1,11 @@
+{
+    "autodeskProduct":"Fusion",
+    "type":"script",
+    "author":"",
+    "description":{
+        "":"Exporteert alle Fusion-projecten naar een lokale map: f3d/f3z en STEP, tekeningen als PDF, overige bestanden als download."
+    },
+    "version":"1.0.0",
+    "supportedOS":"windows|mac",
+    "editEnabled": true
+}
